@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Take Over",
+  "base_artist": "Lyn",
+  "createdAt": "2025-12-14T12:14:15.890261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soldier Take Over",
+      "artist": "Yellowman",
+      "has_synced": false,
+      "path": "select/01_Soldier_Take_Over_Yellowman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big Take Over",
+      "artist": "Bad Brains",
+      "has_synced": false,
+      "path": "select/02_Big_Take_Over_Bad_Brains.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "\"The Take Over, The Breaks Over\"",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/03_The_Take_Over,_The_Breaks_Over_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "“The Take Over, the Breaks Over”",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/04_“The_Take_Over,_the_Breaks_Over”_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "“The Take Over, the Breaks Over”",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/05_“The_Take_Over,_the_Breaks_Over”_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Over the World",
+      "artist": "Courteeners",
+      "has_synced": true,
+      "path": "select/06_Take_Over_the_World_Courteeners.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Over The World",
+      "artist": "The Courteeners",
+      "has_synced": true,
+      "path": "select/07_Take_Over_The_World_The_Courteeners.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "\"The Take Over, The Breaks Over\" - Live At The Cricket Pavillion /2007",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/08_The_Take_Over,_The_Breaks_Over__-_Live_At_The_Cricket_Pavillion__2007_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "\"The Take Over, The Breaks Over\" - Live At The Cricket Pavillion \u00002007",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/09_The_Take_Over,_The_Breaks_Over__-_Live_At_The_Cricket_Pavillion_\u00002007_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Over the World",
+      "artist": "Your Favorite Martian",
+      "has_synced": true,
+      "path": "select/10_Take_Over_the_World_Your_Favorite_Martian.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Over Control (radio edit)",
+      "artist": "Afrojack feat. Eva Simons",
+      "has_synced": true,
+      "path": "select/11_Take_Over_Control_(radio_edit)_Afrojack_feat._Eva_Simons.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "“The Take Over, the Breaks Over”",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/12_“The_Take_Over,_the_Breaks_Over”_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Over",
+      "artist": "League of Legends feat. Jeremy McKinnon of A Day To Remember, MAX & Henry",
+      "has_synced": true,
+      "path": "select/13_Take_Over_League_of_Legends_feat._Jeremy_McKinnon_of_A_Day_To_Remember,_MAX_&_Henry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "“The Take Over, the Breaks Over”",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/14_“The_Take_Over,_the_Breaks_Over”_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Over",
+      "artist": "Solence",
+      "has_synced": true,
+      "path": "select/15_Take_Over_Solence.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "\"The Take Over, The Breaks Over\"",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/16_The_Take_Over,_The_Breaks_Over_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "\"The Take Over, The Breaks Over\" (Album Version)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/17_The_Take_Over,_The_Breaks_Over__(Album_Version)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Over",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Over_Lyn.txt"
+    }
+  ]
+}
